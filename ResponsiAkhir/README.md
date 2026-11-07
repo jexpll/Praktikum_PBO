@@ -111,7 +111,7 @@ Atau bisa di Debug dengan tombol Start / Serangga
 
 Berikut merupakan tempat untuk menampilkan screenshot hasil program setelah dijalankan.
 
-![Output Java RPG Battle](screenshots/output-program.png)
+![Output Java RPG Battle](output-program.png)
 
 ---
 
